@@ -1,0 +1,84 @@
+[
+    {
+      "id": 1,
+      "title": "Warmth for Rural Families",
+      "image": "https://i.ibb.co.com/bPmDvLq/clothes1.jpg",
+      "description": "Support our initiative to provide jackets and sweaters to homeless individuals in urban areas who are battling harsh winter conditions. Every winter, thousands face the bitter cold without proper clothing, putting their health and well-being at risk. With your help, we aim to distribute warm clothing to those in need, offering comfort and protection against the elements. Your generosity can make a significant difference, turning cold nights into moments of warmth and hope. Join us in spreading kindness and ensuring that no one has to endure winter's chill alone. Together, we can bring warmth to vulnerable communities this season",
+      "status": false,
+      "contactInfo": "rural@winterdonations.org",
+      "division": "Rajshahi"
+    },
+    {
+      "id": 2,
+      "title": "Help Urban Homeless",
+      "image": "https://i.ibb.co.com/6Fxmckp/clothes2.jpg",
+      "description": "Support our initiative to provide jackets and sweaters to homeless individuals in urban areas who are battling harsh winter conditions. Every winter, thousands face the bitter cold without proper clothing, putting their health and well-being at risk. With your help, we aim to distribute warm clothing to those in need, offering comfort and protection against the elements.",
+      "status": true,
+      "contactInfo": "urban@winterdonations.org",
+      "division": "Dhaka"
+    },
+    {
+      "id": 3,
+      "title": "Blanket Drive for Elderly",
+      "image": "https://i.ibb.co.com/W2fXTxK/clothes3.jpg",
+      "description": "Support our initiative to provide jackets and sweaters to homeless individuals in urban areas who are battling harsh winter conditions. Every winter, thousands face the bitter cold without proper clothing, putting their health and well-being at risk. With your help, we aim to distribute warm clothing to those in need, offering comfort and protection against the elements. Your generosity can make a significant difference, turning cold nights into moments of warmth and hope. Join us in spreading kindness and ensuring that no one has to endure winter's chill alone. Together, we can bring warmth to vulnerable communities this season.",
+      "status": false,
+      "contactInfo": "elderly@winterdonations.org",
+      "division": "Sylhet"
+    },
+    {
+      "id": 4,
+      "title": "Support for Flood Victims",
+      "image": "https://i.ibb.co.com/vqhKVKW/clothes4.jpg",
+      "description": "Provide warm clothing to flood-affected families who lost their belongings.Support our initiative to provide jackets and sweaters to homeless individuals in urban areas who are battling harsh winter conditions. Every winter, thousands face the bitter cold without proper clothing, putting their health and well-being at risk. With your help, we aim to distribute warm clothing to those in need. Together, we can bring warmth to vulnerable communities this season",
+      "status": false,
+      "contactInfo": "flood@winterdonations.org",
+      "division": "Barishal"
+    },
+    {
+      "id": 5,
+      "title": "Children's Warm Clothes",
+      "image": "https://i.ibb.co.com/WsPRLYF/clothes5.jpg",
+      "description": "Donate warm clothing to children in low-income communities to ensure their health and safety during winterSupport our initiative to provide jackets and sweaters to homeless individuals in urban areas who are battling harsh winter conditions. Every winter, thousands face the bitter cold without proper clothing, putting their health and well-being at risk. With your help, we aim to distribute warm clothing to those in need, offering comfort and protection against the elements.",
+      "status": true,
+      "contactInfo": "children@winterdonations.org",
+      "division": "Chattogram"
+    },
+    {
+      "id": 6,
+      "title": "Mountain Area Relief",
+      "image": "https://i.ibb.co.com/yQcnyzY/clothes6.jpg",
+      "description": "Support our initiative to provide jackets and sweaters to homeless individuals in urban areas who are battling harsh winter conditions. Every winter, thousands face the bitter cold without proper clothing, putting their health and well-being at risk. With your help, we aim to distribute warm clothing to those in need, offering comfort and protection against the elements. Your generosity can make a significant difference, turning cold nights into moments of warmth and hope. Join us in spreading kindness and ensuring that no one has to endure winter's chill alone. Together, we can bring warmth to vulnerable communities this season",
+      "status": true,
+      "contactInfo": "mountains@winterdonations.org",
+      "division": "Khagrachari"
+    },
+    {
+      "id": 7,
+      "title": "Women's Winter Essentials",
+      "image": "https://i.ibb.co.com/3SSgLWp/clothes7.jpg",
+      "description": "Support our initiative to provide jackets and sweaters to homeless individuals in urban areas who are battling harsh winter conditions. an make a significant difference, turning cold nights into moments of warmth and hope. Join us in spreading kindness and ensuring that no one has to endure winter's chill alone. Together, we can bring warmth to vulnerable communities this season.",
+      "status": true,
+      "contactInfo": "women@winterdonations.org",
+      "division": "Mymensingh"
+    },
+    {
+      "id": 8,
+      "title": "Helping Hands for Orphans",
+      "image": "https://i.ibb.co.com/vDRLkBw/clothes8.jpg",
+      "description": "Join hands to provide winter clothing for orphans in need across Bangladesh.Support our initiative to provide jackets and sweaters to homeless individuals in urban areas who are battling harsh winter conditions. Every winter, thousands face the bitter cold without proper clothing, putting their health and well-being at risk. With your help, we aim to distribute warm clothing to those in need, offering comfort and protection against the elements. Your generosity can make a significant difference, turning cold nights into moments of warmth and hope. Join us in spreading kindness and ensuring that no one has to endure winter's chill alone. Together, we can bring warmth to vulnerable communities this season",
+      "status": true,
+      "contactInfo": "orphans@winterdonations.org",
+      "division": "Rangpur"
+    },
+    {
+      "id": 9,
+      "title": "Emergency Cold Relief",
+      "image": "https://i.ibb.co.com/YXK9Nc6/clothes9.jpg",
+      "description": "Deliver emergency winter supplies to the poorest regions during extreme cold spells.Support our initiative to provide jackets and sweaters to homeless individuals in urban areas who are battling harsh winter conditions. Every winter, thousands face the bitter cold without proper clothing, putting their health and well-being at risk. With your help, we aim to distribute warm clothing to those in need, offering comfort and protection against the elements. Your generosity can make a significant difference, turning cold nights into moments of warmth and hope. Join us in spreading kindness and ensuring that no one has to endure winter's chill alone. Together, we can bring warmth to vulnerable communities this season",
+      "status": false,
+      "contactInfo": "relief@winterdonations.org",
+      "division": "Khulna"
+    }
+  ]
+  
